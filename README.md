@@ -1,6 +1,7 @@
 ### Blake Harper
 he/him \
-Junior at Marblehead High School \
-Planning a Computer Science Major \
-Video Game Collector, Musician \
-Working on RPG, HatChat, taking APCSA
+senior at Marblehead High School \
+planning a computer science major \
+video game collector, music hobbyist \ 
+working on RPG, hatChat \
+taken APCSA, APSCP, studying independently
